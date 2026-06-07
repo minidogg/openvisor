@@ -1,5 +1,15 @@
 # openvisor
-Tool you can put on family computers so they stop getting themselves malware.
+Suite of tools you can put on family computers so they stop getting themselves malware.
+
+# Why
+A certain few relatives of mine don't know how not to fall for malware.
+
+# How
+Well most people don't actually need to install programs, but they think they do because of that sketchy website that tells them so. This means we can just restrict that and many other functionalities of their computer to what they exactly need. There are a few different tools in the works:
+- The control server. This isn't neccessary but makes things easier for the people managing their family/relatives' computers.
+- A web extension. Used for attempting to block the issues at the source.
+- Anti-virus style executable. Used as a second layer of defense if something attempts to make it's way onto the computer. Highly recommended to run the control server with this so you can quickly react to any detected threats that weren't able to be stopped. It also allows you to shutdown the computer before too much damage can be done.
+All of these should work without any required dependencies on the other tools. Although the control server is highly recommended.
 
 # contributor notes
 If you plan on contributing something here are some things to note:
