@@ -1,6 +1,8 @@
 # openvisor
 Suite of tools you can put on family computers so they stop getting themselves malware.
 
+Development may be slow, I usually prototype components in my private repo before cleaning them up for this. 
+
 # Why
 A certain few relatives of mine don't know how not to fall for malware.
 
